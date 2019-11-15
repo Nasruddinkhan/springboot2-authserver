@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot2-authserver
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nasru
+Implementation-Vendor-Id: com.mypractice.oauth2
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot2-authserver
+Created-By: Maven Integration for Eclipse
+
